@@ -1,0 +1,6 @@
+ultralytics
+torch
+torchvision
+numpy
+Pillow
+google-generativeai
